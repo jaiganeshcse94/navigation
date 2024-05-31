@@ -10,7 +10,7 @@ function Card() {
         },
         {
             id: 2,
-            img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+            img: "https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners.webp",
             title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences ",
             content: "By Tushar Vinocha",
           },
@@ -22,7 +22,7 @@ function Card() {
           },
           {
             id: 4,
-            img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+            img: "https://www.guvi.in/blog/wp-content/uploads/2024/02/full_stack_developer_roadmap_in_2024.webp",
             title: "Best Full-Stack Development Project Ideas in 2024 ",
             content: "By Isha Sharma",
           },

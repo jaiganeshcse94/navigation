@@ -15,7 +15,7 @@ function Datascience() {
     },
     {
       id: 3,
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-1536x804.png",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Top-Product-Based-Companies-for-Data-Scientists.webp",
       title: "Can A Commerce Student Do Data Science? ",
       content: "By Saakshi Priyadarshini",
     },

@@ -4,7 +4,7 @@ function Cybersecurity() {
   let cybersecure = [
     {
       id: 1,
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners.webp",
       title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences ",
       content: "By Tushar Vinocha",
     },

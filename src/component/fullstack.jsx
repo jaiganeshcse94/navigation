@@ -4,7 +4,7 @@ function Fullstack() {
   let fullstack = [
     {
       id: 1,
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2024/02/full_stack_developer_roadmap_in_2024.webp",
       title: "Best Full-Stack Development Project Ideas in 2024 ",
       content: "By Isha Sharma",
     },
@@ -16,7 +16,7 @@ function Fullstack() {
     },
     {
       id: 3,
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.png",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
       title: "How does Apache work? A detailed introduction to Apache ",
       content: "By Tushar Vinocha",
     },
